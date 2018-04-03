@@ -1,0 +1,12 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "This is a testing of websockets with heroku",
+  "main": "chat-server.js",
+  "scripts": {
+    "start": "node chat-server.js"
+  },
+  "dependencies": {
+    "websocket": "~1.0.25"
+  }
+}
